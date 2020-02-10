@@ -1,6 +1,12 @@
 # Uni-Homework-3
+
+This is a homework from the University of Quebec in Trois-Rivieres, Canada.
+
+the course is in french so code is in french
+
 A java console library manager program.(in french)
 
+Description of the assignment:
 
 In context :
 The owner of your city's library seeks your knowledge in designing
